@@ -63,6 +63,6 @@ This project explores how computer vision can assist biological research by auto
 
 ## Author
 
-Mia M  
+Mia Miranda
 Computer Science @ LSU  
 GitHub: https://github.com/Astarosa-MM
